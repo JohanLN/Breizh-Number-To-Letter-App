@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/JohanLN/Breizh-Number-To-Letter-Appx%C2%B2/static/js/main.b8f68435.js",
-    "static/js/787.c0ab8885.chunk.js": "/JohanLN/Breizh-Number-To-Letter-Appx%C2%B2/static/js/787.c0ab8885.chunk.js",
-    "index.html": "/JohanLN/Breizh-Number-To-Letter-Appx%C2%B2/index.html",
-    "main.b8f68435.js.map": "/JohanLN/Breizh-Number-To-Letter-Appx%C2%B2/static/js/main.b8f68435.js.map",
-    "787.c0ab8885.chunk.js.map": "/JohanLN/Breizh-Number-To-Letter-Appx%C2%B2/static/js/787.c0ab8885.chunk.js.map"
+    "main.js": "/Breizh-Number-To-Letter-App/static/js/main.716d64b7.js",
+    "static/js/787.c0ab8885.chunk.js": "/Breizh-Number-To-Letter-App/static/js/787.c0ab8885.chunk.js",
+    "index.html": "/Breizh-Number-To-Letter-App/index.html",
+    "main.716d64b7.js.map": "/Breizh-Number-To-Letter-App/static/js/main.716d64b7.js.map",
+    "787.c0ab8885.chunk.js.map": "/Breizh-Number-To-Letter-App/static/js/787.c0ab8885.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.b8f68435.js"
+    "static/js/main.716d64b7.js"
   ]
 }
