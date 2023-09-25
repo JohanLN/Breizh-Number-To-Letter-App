@@ -110,13 +110,13 @@ function App() {
                     <FormControlLabel
                       value={0}
                       control={<Radio color="secondary" />}
-                      label="Nombres -> Lettres"
+                      label="Sifroù -> Lizherennoù"
                       disabled={number > -1}
                     />
                     <FormControlLabel
                       value={1}
                       control={<Radio color="secondary" />}
-                      label="Lettres -> Nombres"
+                      label="Lizherennoù -> Sifroù"
                       disabled={number > -1}
                     />
                   </RadioGroup>
@@ -230,7 +230,7 @@ function App() {
                 color="secondary"
                 sx={{ marginTop: "5%", textDecoration: "none" }}
               >
-                <Typography variant="h2">Recommencer</Typography>
+                <Typography variant="h2">C'hoari en-dro</Typography>
               </Button>
             </Box>
           </Grow>
